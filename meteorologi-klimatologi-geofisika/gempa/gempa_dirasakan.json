@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/06/2022 07:26:40 WIB",
+    "lintang": "1.66 LU",
+    "bujur": "99.18 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Tapanuli Selatan",
+    "warning": [
+      "III Pinangsori",
+      "III Sibolga"
+    ]
+  },
+  {
     "waktu": "02/06/2022 05:55:45 WIB",
     "lintang": "1.11 LS",
     "bujur": "127.18 BT",
@@ -248,17 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Utara Ambon",
     "warning": [
       "III Ambon"
-    ]
-  },
-  {
-    "waktu": "17/05/2022 23:08:05 WIB",
-    "lintang": "5.79 LS",
-    "bujur": "110.42 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 92 km barat laut Jepara",
-    "warning": [
-      "II-III Karimun Jawa"
     ]
   }
 ]
