@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "23/11/2022 17:54:08 WIB",
+    "lintang": "6.69 LS",
+    "bujur": "106.7 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Barat Daya Kota Bogor",
+    "warning": [
+      "II Sukabumi",
+      "II Kab. Bogor"
+    ]
+  },
+  {
+    "waktu": "23/11/2022 17:45:00 WIB",
+    "lintang": "7.81 LS",
+    "bujur": "113.59 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kab. Probolinggo",
+    "warning": [
+      "II - III Situbondo",
+      "I - II Bondowoso"
+    ]
+  },
+  {
     "waktu": "23/11/2022 12:34:27 WIB",
     "lintang": "10.4 LS",
     "bujur": "123.91 BT",
@@ -233,37 +257,6 @@
       "II - III Rote",
       "II - III Kab. Kupang",
       "II - III Kab. TTS"
-    ]
-  },
-  {
-    "waktu": "20/11/2022 20:21:56 WIB",
-    "lintang": "8.4 LS",
-    "bujur": "116.04 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km BaratDaya Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "II Lombok Timur",
-      "II Mataram"
-    ]
-  },
-  {
-    "waktu": "20/11/2022 01:28:28 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "107.87 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km barat daya Kab. Pangandaran",
-    "warning": [
-      "IV Garut",
-      "III Pangandaran",
-      "III Tasikmalaya",
-      "II Bandung Barat",
-      "II Ciamis",
-      "II Cilacap",
-      "II Kota Bandung",
-      "II Kab. Bandung"
     ]
   }
 ]
