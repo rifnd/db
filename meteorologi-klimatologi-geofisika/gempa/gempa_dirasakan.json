@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/11/2022 12:34:27 WIB",
+    "lintang": "10.4 LS",
+    "bujur": "123.91 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km Tenggara Kab. Kupang",
+    "warning": [
+      "II Kab. Kupang"
+    ]
+  },
+  {
     "waktu": "23/11/2022 12:08:31 WIB",
     "lintang": "6.87 LS",
     "bujur": "107.08 BT",
@@ -253,18 +264,6 @@
       "II Cilacap",
       "II Kota Bandung",
       "II Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "19/11/2022 16:37:26 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "102.61 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Tenggara Kepahiang",
-    "warning": [
-      "II-III Kepahiang",
-      "II - III Lebong"
     ]
   }
 ]
