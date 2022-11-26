@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2022 16:59:38 WIB",
+    "lintang": "3.01 LS",
+    "bujur": "130.65 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 87 Km Timur Laut Kobisonta-MALTENG",
+    "warning": [
+      "III Bula"
+    ]
+  },
+  {
     "waktu": "26/11/2022 14:16:08 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.09 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 53 km Tenggara Kab. Kupang",
     "warning": [
       "II Kab. Kupang"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 12:08:31 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "II Warungkondang"
     ]
   }
 ]
