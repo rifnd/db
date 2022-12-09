@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/12/2022 04:30:13 WIB",
+    "lintang": "4.72 LS",
+    "bujur": "122.07 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 6,5 km TimurLaut Rumbia, Kab. Bombana",
+    "warning": [
+      "II-III Bombana"
+    ]
+  },
+  {
     "waktu": "08/12/2022 15:56:16 WIB",
     "lintang": "3.7 LS",
     "bujur": "128.09 BT",
@@ -252,17 +263,6 @@
       "III Cianjur",
       "III Sukabumi",
       "II - III Pamoyanan"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 04:39:54 WIB",
-    "lintang": "7.38 LS",
-    "bujur": "108.23 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kota Tasikmalaya",
-    "warning": [
-      "II Tasikmalaya"
     ]
   }
 ]
