@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/01/2023 11:06:55 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km barat laut Kab. Cianjur",
+    "warning": [
+      "II-III Pacet",
+      "II-III Ciseupan",
+      "II-III Kota Cianjur"
+    ]
+  },
+  {
     "waktu": "02/01/2023 01:24:33 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.74 BT",
@@ -220,17 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 55 km barat laut Seram Bagian Barat",
     "warning": [
       "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "22/12/2022 16:21:08 WIB",
-    "lintang": "1.55 LS",
-    "bujur": "120.12 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km timur laut Lawua, Kab. Sigi",
-    "warning": [
-      "II - III Kulawi"
     ]
   }
 ]
