@@ -1,7 +1,7 @@
 [
   {
-    img: 'https://images4.alphacoders.com/592/592538.jpg',
-    jawaban: 'Akame ga kill'
+    "img": 'https://images4.alphacoders.com/592/592538.jpg',
+    "jawaban": 'Akame ga kill'
   },
   {
     img: 'https://images6.alphacoders.com/577/577545.jpg',
