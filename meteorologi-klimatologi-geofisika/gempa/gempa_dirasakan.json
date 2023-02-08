@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/02/2023 09:05:12 WIB",
+    "lintang": "8.4 LS",
+    "bujur": "116.21 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km Tenggara Lombok Utara",
+    "warning": [
+      "II - III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "08/02/2023 06:28:44 WIB",
     "lintang": "7.26 LS",
     "bujur": "109.8 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "05/02/2023 09:40:05 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Timur Laut Karangasem",
-    "warning": [
-      "II - III Kubu"
     ]
   }
 ]
