@@ -7,8 +7,13 @@
     "kedalaman": "9 Km",
     "wilayah": "Pusat gempa berada di darat 10 km Timur Laut Kab. Mojokerto",
     "warning": [
-      "IV Mojokerto",
-      "IV Pasuruan"
+      "III-IV Mojokerto",
+      "III Pasuruan",
+      "III Surabaya",
+      "III Lamongan",
+      "III Gresik",
+      "II-III Sidoarjo",
+      "II Lawang"
     ]
   },
   {
