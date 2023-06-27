@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/06/2023 10:48:03 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "108.92 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Cilacap",
+    "warning": [
+      "II Cilacap"
+    ]
+  },
+  {
     "waktu": "27/06/2023 10:13:08 WIB",
     "lintang": "5.27 LU",
     "bujur": "95.73 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km Barat Lakea",
     "warning": [
       "II-III Tolitoli"
-    ]
-  },
-  {
-    "waktu": "19/06/2023 11:43:52 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "140.43 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Kab. Jayapura",
-    "warning": [
-      "II-III Sentani"
     ]
   }
 ]
