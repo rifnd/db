@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/08/2023 10:33:57 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Barat Laut Kaimana",
+    "warning": [
+      "III-IV Kaimana"
+    ]
+  },
+  {
     "waktu": "31/07/2023 20:50:25 WIB",
     "lintang": "3.71 LS",
     "bujur": "133.71 BT",
@@ -251,17 +262,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Tapanuli Utara",
     "warning": [
       "III Sipoholon"
-    ]
-  },
-  {
-    "waktu": "20/07/2023 00:12:08 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
