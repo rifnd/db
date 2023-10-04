@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "04/10/2023 18:21:48 WIB",
+    "lintang": "5.43 LU",
+    "bujur": "126.27 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "145 Km",
+    "wilayah": "Pusat gempa berada di laut 116 km BaratLaut Pulau Karatung",
+    "warning": [
+      "III - IV Sangihe",
+      "II - III Morotai Selatan",
+      "II - III Sitaro",
+      "II - III Ternate"
+    ]
+  },
+  {
     "waktu": "04/10/2023 09:18:47 WIB",
     "lintang": "4.19 LS",
     "bujur": "121.7 BT",
@@ -228,19 +242,6 @@
       "III Marsela",
       "III Sorong",
       "II Tepa"
-    ]
-  },
-  {
-    "waktu": "22/09/2023 02:58:15 WIB",
-    "lintang": "4.03 LU",
-    "bujur": "96.59 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km tenggara Kab. Naganraya",
-    "warning": [
-      "III Naganraya",
-      "II Aceh Selatan",
-      "II Aceh Barat Daya"
     ]
   }
 ]
