@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "22/11/2023 09:48:54 WIB",
+    "lintang": "1.77 LU",
+    "bujur": "127.14 BT",
+    "magnitudo": "6.6",
+    "kedalaman": "109 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat",
+    "warning": [
+      "III-IV Manado",
+      "III - IV Ternate",
+      "IV Siau",
+      "III Bitung",
+      "III Halmahera Barat",
+      "III Halmahera Timur",
+      "III Halmahera Utara",
+      "III Tomohon",
+      "III Talaud",
+      "III Tidore",
+      "III - IV Minahasa Utara",
+      "III - IV Minahasa"
+    ]
+  },
+  {
     "waktu": "22/11/2023 05:01:24 WIB",
     "lintang": "4.79 LS",
     "bujur": "122.64 BT",
@@ -227,19 +249,6 @@
       "III Malili",
       "II Masamba",
       "III Tomoni Timur"
-    ]
-  },
-  {
-    "waktu": "12/11/2023 09:06:17 WIB",
-    "lintang": "10.0 LS",
-    "bujur": "123.76 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km BaratDaya Kab. Kupang",
-    "warning": [
-      "III - IV Kota Kupang",
-      "III - IV Kabupaten Kupang",
-      "II Kabupaten Rote Ndao"
     ]
   }
 ]
