@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/11/2023 18:03:05 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "129 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 78 Km Tenggara Daruba",
+    "warning": [
+      "II Morotai Selatan"
+    ]
+  },
+  {
     "waktu": "27/11/2023 15:19:01 WIB",
     "lintang": "8.86 LS",
     "bujur": "112.81 BT",
@@ -250,17 +261,6 @@
       "III Manado",
       "III Bolaang Mongondow",
       "III Minahasa Utara"
-    ]
-  },
-  {
-    "waktu": "17/11/2023 10:02:19 WIB",
-    "lintang": "2.07 LS",
-    "bujur": "138.93 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Tenggara Sarmi",
-    "warning": [
-      "III - IV Sarmi"
     ]
   }
 ]
