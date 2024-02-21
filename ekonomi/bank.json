@@ -442,33 +442,5 @@
   {
     "kodeBank": "050",
     "namaBank": "STANDARD CHARTERED BANK"
-  },
-  {
-    "kodeBank": "DANA",
-    "namaBank": "DANA EWALLET"
-  },
-  {
-    "kodeBank": "GOPAY",
-    "namaBank": "GOPAY"
-  },
-  {
-    "kodeBank": "GOPAYDRIVER",
-    "namaBank": "GOPAY DRIVER"
-  },
-  {
-    "kodeBank": "KASPRO",
-    "namaBank": "KASPRO"
-  },
-  {
-    "kodeBank": "LINKAJA",
-    "namaBank": "LINKAJA"
-  },
-  {
-    "kodeBank": "OVO",
-    "namaBank": "OVO"
-  },
-  {
-    "kodeBank": "SHOPEEPAY",
-    "namaBank": "SHOPEEPAY"
   }
 ]
