@@ -1,0 +1,474 @@
+[
+  {
+    "kodeBank": "567",
+    "namaBank": "ALLO BANK INDONESIA"
+  },
+  {
+    "kodeBank": "040",
+    "namaBank": "BANGKOK BANK"
+  },
+  {
+    "kodeBank": "116",
+    "namaBank": "BANK ACEH SYARIAH"
+  },
+  {
+    "kodeBank": "947",
+    "namaBank": "BANK ALADIN SYARIAH"
+  },
+  {
+    "kodeBank": "531",
+    "namaBank": "BANK AMAR INDONESIA"
+  },
+  {
+    "kodeBank": "061",
+    "namaBank": "BANK ANZ INDONESIA"
+  },
+  {
+    "kodeBank": "037",
+    "namaBank": "BANK ARTHA GRAHA INTERNASIONAL"
+  },
+  {
+    "kodeBank": "137",
+    "namaBank": "BANK BANTEN"
+  },
+  {
+    "kodeBank": "014",
+    "namaBank": "BANK BCA"
+  },
+  {
+    "kodeBank": "536",
+    "namaBank": "BANK BCA SYARIAH"
+  },
+  {
+    "kodeBank": "133",
+    "namaBank": "BANK BENGKULU"
+  },
+  {
+    "kodeBank": "459",
+    "namaBank": "BANK BISNIS INTERNASIONAL"
+  },
+  {
+    "kodeBank": "110",
+    "namaBank": "BANK BJB"
+  },
+  {
+    "kodeBank": "425",
+    "namaBank": "BANK BJB SYARIAH"
+  },
+  {
+    "kodeBank": "009",
+    "namaBank": "BANK BNI"
+  },
+  {
+    "kodeBank": "057",
+    "namaBank": "BANK BNP PARIBAS INDONESIA"
+  },
+  {
+    "kodeBank": "002",
+    "namaBank": "BANK BRI"
+  },
+  {
+    "kodeBank": "451",
+    "namaBank": "BANK BSI"
+  },
+  {
+    "kodeBank": "200",
+    "namaBank": "BANK BTN"
+  },
+  {
+    "kodeBank": "213",
+    "namaBank": "BANK BTPN"
+  },
+  {
+    "kodeBank": "547",
+    "namaBank": "BANK BTPN SYARIAH"
+  },
+  {
+    "kodeBank": "076",
+    "namaBank": "BANK BUMI ARTA"
+  },
+  {
+    "kodeBank": "054",
+    "namaBank": "BANK CAPITAL INDONESIA"
+  },
+  {
+    "kodeBank": "036",
+    "namaBank": "BANK CCB INDONESIA"
+  },
+  {
+    "kodeBank": "022",
+    "namaBank": "BANK CIMB NIAGA"
+  },
+  {
+    "kodeBank": "950",
+    "namaBank": "BANK COMMONWEALTH"
+  },
+  {
+    "kodeBank": "949",
+    "namaBank": "BANK CTBC INDONESIA"
+  },
+  {
+    "kodeBank": "011",
+    "namaBank": "BANK DANAMON"
+  },
+  {
+    "kodeBank": "046",
+    "namaBank": "BANK DBS INDONESIA"
+  },
+  {
+    "kodeBank": "501",
+    "namaBank": "BANK DIGITAL BCA"
+  },
+  {
+    "kodeBank": "111",
+    "namaBank": "BANK DKI"
+  },
+  {
+    "kodeBank": "562",
+    "namaBank": "BANK FAMA INTERNASIONAL"
+  },
+  {
+    "kodeBank": "161",
+    "namaBank": "BANK GANESHA"
+  },
+  {
+    "kodeBank": "087",
+    "namaBank": "BANK HSBC INDONESIA"
+  },
+  {
+    "kodeBank": "945",
+    "namaBank": "BANK IBK INDONESIA"
+  },
+  {
+    "kodeBank": "164",
+    "namaBank": "BANK ICBC INDONESIA"
+  },
+  {
+    "kodeBank": "513",
+    "namaBank": "BANK INA PERDANA"
+  },
+  {
+    "kodeBank": "555",
+    "namaBank": "BANK INDEX SELINDO"
+  },
+  {
+    "kodeBank": "095",
+    "namaBank": "BANK J TRUST INDONESIA"
+  },
+  {
+    "kodeBank": "542",
+    "namaBank": "BANK JAGO"
+  },
+  {
+    "kodeBank": "472",
+    "namaBank": "BANK JASA JAKARTA"
+  },
+  {
+    "kodeBank": "113",
+    "namaBank": "BANK JATENG"
+  },
+  {
+    "kodeBank": "114",
+    "namaBank": "BANK JATIM"
+  },
+  {
+    "kodeBank": "123",
+    "namaBank": "BANK KALBAR"
+  },
+  {
+    "kodeBank": "124",
+    "namaBank": "BANK KALTIMTARA"
+  },
+  {
+    "kodeBank": "441",
+    "namaBank": "BANK KB BUKOPIN"
+  },
+  {
+    "kodeBank": "521",
+    "namaBank": "BANK KB BUKOPIN SYARIAH"
+  },
+  {
+    "kodeBank": "484",
+    "namaBank": "BANK KEB HANA"
+  },
+  {
+    "kodeBank": "121",
+    "namaBank": "BANK LAMPUNG"
+  },
+  {
+    "kodeBank": "131",
+    "namaBank": "BANK MALUKU MALUT"
+  },
+  {
+    "kodeBank": "008",
+    "namaBank": "BANK MANDIRI"
+  },
+  {
+    "kodeBank": "564",
+    "namaBank": "BANK MANDIRI TASPEN"
+  },
+  {
+    "kodeBank": "157",
+    "namaBank": "BANK MASPION INDONESIA"
+  },
+  {
+    "kodeBank": "097",
+    "namaBank": "BANK MAYAPADA"
+  },
+  {
+    "kodeBank": "553",
+    "namaBank": "BANK MAYORA"
+  },
+  {
+    "kodeBank": "426",
+    "namaBank": "BANK MEGA"
+  },
+  {
+    "kodeBank": "506",
+    "namaBank": "BANK MEGA SYARIAH"
+  },
+  {
+    "kodeBank": "151",
+    "namaBank": "BANK MESTIKA DHARMA"
+  },
+  {
+    "kodeBank": "048",
+    "namaBank": "BANK MIZUHO INDONESIA"
+  },
+  {
+    "kodeBank": "485",
+    "namaBank": "BANK MNC INTERNASIONAL"
+  },
+  {
+    "kodeBank": "147",
+    "namaBank": "BANK MUAMALAT INDONESIA"
+  },
+  {
+    "kodeBank": "548",
+    "namaBank": "BANK MULTIARTA SENTOSA"
+  },
+  {
+    "kodeBank": "118",
+    "namaBank": "BANK NAGARI"
+  },
+  {
+    "kodeBank": "503",
+    "namaBank": "BANK NATIONALNOBU"
+  },
+  {
+    "kodeBank": "490",
+    "namaBank": "BANK NEO COMMERCE"
+  },
+  {
+    "kodeBank": "128",
+    "namaBank": "BANK NTB SYARIAH"
+  },
+  {
+    "kodeBank": "130",
+    "namaBank": "BANK NTT"
+  },
+  {
+    "kodeBank": "145",
+    "namaBank": "BANK NUSANTARA PARAHYANGAN"
+  },
+  {
+    "kodeBank": "028",
+    "namaBank": "BANK OCBC NISP"
+  },
+  {
+    "kodeBank": "033",
+    "namaBank": "BANK OF AMERICA"
+  },
+  {
+    "kodeBank": "069",
+    "namaBank": "BANK OF CHINA (HONG KONG)"
+  },
+  {
+    "kodeBank": "146",
+    "namaBank": "BANK OF INDIA INDONESIA"
+  },
+  {
+    "kodeBank": "526",
+    "namaBank": "BANK OKE INDONESIA"
+  },
+  {
+    "kodeBank": "019",
+    "namaBank": "BANK PANIN"
+  },
+  {
+    "kodeBank": "517",
+    "namaBank": "BANK PANIN DUBAI SYARIAH"
+  },
+  {
+    "kodeBank": "132",
+    "namaBank": "BANK PAPUA"
+  },
+  {
+    "kodeBank": "013",
+    "namaBank": "BANK PERMATA"
+  },
+  {
+    "kodeBank": "167",
+    "namaBank": "BANK QNB INDONESIA"
+  },
+  {
+    "kodeBank": "494",
+    "namaBank": "BANK RAYA INDONESIA"
+  },
+  {
+    "kodeBank": "047",
+    "namaBank": "BANK RESONA PERDANIA"
+  },
+  {
+    "kodeBank": "119",
+    "namaBank": "BANK RIAU KEPRI"
+  },
+  {
+    "kodeBank": "523",
+    "namaBank": "BANK SAHABAT SAMPOERNA"
+  },
+  {
+    "kodeBank": "498",
+    "namaBank": "BANK SBI INDONESIA"
+  },
+  {
+    "kodeBank": "152",
+    "namaBank": "BANK SHINHAN INDONESIA"
+  },
+  {
+    "kodeBank": "153",
+    "namaBank": "BANK SINARMAS"
+  },
+  {
+    "kodeBank": "126",
+    "namaBank": "BANK SULSELBAR"
+  },
+  {
+    "kodeBank": "134",
+    "namaBank": "BANK SULTENG"
+  },
+  {
+    "kodeBank": "135",
+    "namaBank": "BANK SULTRA"
+  },
+  {
+    "kodeBank": "127",
+    "namaBank": "BANK SULUTGO"
+  },
+  {
+    "kodeBank": "045",
+    "namaBank": "BANK SUMITOMO MITSUI INDONESIA"
+  },
+  {
+    "kodeBank": "120",
+    "namaBank": "BANK SUMSEL BABEL"
+  },
+  {
+    "kodeBank": "117",
+    "namaBank": "BANK SUMUT"
+  },
+  {
+    "kodeBank": "023",
+    "namaBank": "BANK UOB INDONESIA"
+  },
+  {
+    "kodeBank": "566",
+    "namaBank": "BANK VICTORIA INTERNATIONAL"
+  },
+  {
+    "kodeBank": "405",
+    "namaBank": "BANK VICTORIA SYARIAH"
+  },
+  {
+    "kodeBank": "212",
+    "namaBank": "BANK WOORI SAUDARA"
+  },
+  {
+    "kodeBank": "129",
+    "namaBank": "BPD BALI"
+  },
+  {
+    "kodeBank": "112",
+    "namaBank": "BPD DIY"
+  },
+  {
+    "kodeBank": "115",
+    "namaBank": "BPD JAMBI"
+  },
+  {
+    "kodeBank": "122",
+    "namaBank": "BPD KALSEL"
+  },
+  {
+    "kodeBank": "125",
+    "namaBank": "BPD KALTENG"
+  },
+  {
+    "kodeBank": "688",
+    "namaBank": "BPR KARYAJATNIKA SADAYA"
+  },
+  {
+    "kodeBank": "600",
+    "namaBank": "BPR SUPRA ARTAPERSADA"
+  },
+  {
+    "kodeBank": "031",
+    "namaBank": "CITIBANK"
+  },
+  {
+    "kodeBank": "067",
+    "namaBank": "DEUTSCHE BANK AG."
+  },
+  {
+    "kodeBank": "032",
+    "namaBank": "JP MORGAN CHASE BANK N.A."
+  },
+  {
+    "kodeBank": "016",
+    "namaBank": "MAYBANK INDONESIA"
+  },
+  {
+    "kodeBank": "042",
+    "namaBank": "MUFG BANK"
+  },
+  {
+    "kodeBank": "520",
+    "namaBank": "PRIMA MASTER BANK"
+  },
+  {
+    "kodeBank": "535",
+    "namaBank": "SEABANK INDONESIA"
+  },
+  {
+    "kodeBank": "050",
+    "namaBank": "STANDARD CHARTERED BANK"
+  },
+  {
+    "kodeBank": "DANA",
+    "namaBank": "DANA EWALLET"
+  },
+  {
+    "kodeBank": "GOPAY",
+    "namaBank": "GOPAY"
+  },
+  {
+    "kodeBank": "GOPAYDRIVER",
+    "namaBank": "GOPAY DRIVER"
+  },
+  {
+    "kodeBank": "KASPRO",
+    "namaBank": "KASPRO"
+  },
+  {
+    "kodeBank": "LINKAJA",
+    "namaBank": "LINKAJA"
+  },
+  {
+    "kodeBank": "OVO",
+    "namaBank": "OVO"
+  },
+  {
+    "kodeBank": "SHOPEEPAY",
+    "namaBank": "SHOPEEPAY"
+  }
+]
