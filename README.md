@@ -1,4 +1,5 @@
-# database
+# DATABASE
 
-This data are from scraper<p>
-![](https://visitor-badge.glitch.me/badge?page_id=rifnd/db)
+> Free database ready to use
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=rifnd.db)
